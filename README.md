@@ -1,2 +1,2 @@
 # flow-mobile--app
-Flow habit tracker andorid app
+Flow habit tracker android app
